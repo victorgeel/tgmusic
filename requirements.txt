@@ -1,0 +1,6 @@
+pyrogram
+pytgcalls
+yt-dlp
+tgcrypto
+ffmpeg-python
+pydub
